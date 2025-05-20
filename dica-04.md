@@ -1,0 +1,1 @@
+Adicionar um teste na DiCA
